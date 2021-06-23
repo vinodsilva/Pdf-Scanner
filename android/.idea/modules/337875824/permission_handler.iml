@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":permission_handler" external.linked.project.path="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.baseflow.permissionhandler" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":permission_handler" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="release" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleRelease" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileReleaseSources" />
+        <afterSyncTasks>
+          <task>generateReleaseSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/res;file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/rs/release;file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/resValues/release" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/permission_handler/intermediates/javac/release/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/permission_handler/intermediates/javac/releaseUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android">
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/release/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/testRelease/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/src/test/shaders" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/aidl_source_output_dir/release/compileReleaseAidl/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/aidl_source_output_dir/release/compileReleaseAidl/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/ap_generated_sources/release/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/ap_generated_sources/release/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/ap_generated_sources/releaseUnitTest/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/ap_generated_sources/releaseUnitTest/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/renderscript_source_output_dir/release/compileReleaseRenderscript/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/renderscript_source_output_dir/release/compileReleaseRenderscript/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/resValues/release">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/resValues/release" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/rs/release">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/res/rs/release" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/source/buildConfig/release">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/permission_handler/generated/source/buildConfig/release" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_release:1.0.0-9a28c3bcf40ce64fee61e807ee3e1395fd6bd954@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android-android-29" level="project" />
+  </component>
+</module>
